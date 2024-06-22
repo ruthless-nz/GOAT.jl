@@ -1,0 +1,21 @@
+Eid,Ename,Experience,Total_projects,Rating,Area_of_Interest_1,Area_of_Interest_2,Area_of_Interest_3,AI_project_count,ML_project_count,JS_project_count,Java_project_count,DotNet_project_count,Mobile_project_count
+1,Dana Bond,2,2,1,DotNet,JS,AI,0,1,1,0,0,0
+2,Jesus Hampton,9,13,1.444444444,DotNet,AI,JS,4,3,0,2,3,1
+3,Teresa Munoz,15,16,1.066666667,ML,JS,Java,3,3,1,3,5,1
+4,Annette Dipietro,18,19,1.055555556,DotNet,ML,Mobile,4,4,2,3,3,3
+5,Jennifer Fortner,22,15,0.681818182,Mobile,Java,JS,3,4,3,1,1,3
+6,Mary Todd,7,13,1.857142857,AI,Java,ML,2,5,1,1,1,3
+7,Nicolas Fulcher,2,2,1,AI,Mobile,DotNet,1,0,1,0,0,0
+8,Bernice Bousquet,3,4,1.333333333,DotNet,Mobile,Java,1,0,1,1,1,0
+9,William Berger,2,5,2.5,JS,DotNet,AI,1,2,1,1,0,0
+10,Kennith Hamilton,3,8,2.666666667,Mobile,ML,JS,0,2,3,3,0,0
+11,Shannon Berryhill,7,17,2.428571429,JS,ML,Mobile,2,3,4,7,0,1
+12,Rachel Morse,3,6,2,DotNet,Java,JS,2,1,0,1,0,2
+13,Robert Wilson,11,8,0.727272727,Java,Mobile,JS,2,1,1,4,0,0
+14,Shirley Mcmahon,8,6,0.75,Java,JS,ML,1,0,4,0,0,1
+15,Jeffery Parikh,6,8,1.333333333,DotNet,Java,Mobile,2,1,3,1,0,1
+16,Shannon Campo,18,26,1.444444444,JS,ML,Java,2,7,5,5,2,5
+17,Charles Vine,15,6,0.4,AI,Mobile,ML,2,1,2,1,0,0
+18,John Peters,16,19,1.1875,DotNet,JS,Mobile,6,1,3,3,2,4
+19,Lawrence Litzenberg,21,21,1,Java,ML,JS,2,3,6,5,4,1
+20,Michael Harpole,22,23,1.045454545,AI,Mobile,DotNet,3,1,8,5,5,1

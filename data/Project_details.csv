@@ -1,0 +1,30 @@
+PID,Project_name,Role,Primary_Skill,all skills
+1,AI Discovey Spike,Team Lead,AI,"AI,ML,"
+2,AI Discovey Spike,Programmer-1,AI,"AI,ML,"
+3,AI Discovey Spike,Programmer-1,AI,"AI,ML,"
+4,AI Discovey Spike,Project Manager,,
+5,AI Discovey Spike,Programmer-3,ML,"AI,ML,"
+6,AI Discovey Spike,Programmer-3,ML,"AI,ML,"
+7,AI Discovey Spike,Programmer-3,ML,"AI,ML,"
+8,AI Discovey Spike,Programmer-3,ML,"AI,ML,"
+9,AI Deployment Project,Team Lead,,
+10,AI Deployment Project,Programmer-1,ML,"AI,ML,DotNet,JS,Mobile"
+11,AI Deployment Project,Project Manager,,
+12,AI Deployment Project,Programmer-3,ML,"AI,ML,"
+13,AI Deployment Project,Programmer-3,AI,"AI,ML,"
+14,AI Deployment Project,Deployment-1,JS,"AI,ML,DotNet,JS,Mobile"
+15,AI Deployment Project,Deployment-2,JS,"AI,ML,DotNet,JS,Mobile"
+16,AI Deployment Project,Deployment-2,JS,"AI,ML,DotNet,JS,Mobile"
+17,AI Deployment Project,Testing and Debugging,JS,"DotNet,JS,Mobile"
+18,NLP poc,Team Lead,,
+19,NLP poc,Programmer-1,ML,"AI,ML,"
+20,NLP poc,Programmer-2,ML,"AI,ML,"
+21,NLP poc,Programmer-2,ML,"AI,ML,"
+22,Mobile App BAU,Programmer-2,Mobile,"JS,Mobile,DotNet"
+23,Mobile App BAU,Programmer-2,Mobile,"JS,Mobile,DotNet"
+24,Mobile App BAU,Programmer-2,Mobile,"JS,Mobile,DotNet"
+25,Website BAU,Programmer-2,JS,"DotNet,JS,Mobile"
+26,Website BAU,Programmer-2,JS,"DotNet,JS,Mobile"
+27,Website BAU,Programmer-2,DotNet,"DotNet,Java,JS"
+28,Full Stack BAU,Programmer-1,DotNet,"DotNet,Java,JS"
+29,Full Stack BAU,Programmer-1,Java,"DotNet,Java,JS"
